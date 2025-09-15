@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128123967133",
+    "project_id": "zads-9e3b3",
+    "storage_bucket": "zads-9e3b3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128123967133:android:760a83fb5e084b7cf7a674",
+        "android_client_info": {
+          "package_name": "com.example.zads"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApZTECkxmZOvZP42Inopv9rJc-FP2lFLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
