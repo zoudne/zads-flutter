@@ -129,7 +129,7 @@ class _DomainEntryScreenState extends State<DomainEntryScreen> {
         return false;
       }
       final response = await http.post(
-        Uri.parse('https://test.satayr.com/verify-credentials.php'),
+        Uri.parse('https://api.zoudne.com/api/verify-credentials.php'),
         headers: {
           'Content-Type': 'application/json',
         },
